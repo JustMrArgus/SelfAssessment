@@ -36,8 +36,8 @@
   - Streams API 👂 heard
   - Web Streams API 👂 heard
   - Crypto API 👂 heard
-  - Password hashing with node:crypto.scrypt
-  - Web Crypto API
+  - Password hashing with node:crypto.scrypt 👂 heard
+  - Web Crypto API 👂 heard
   - File system API: sync and async
   - Copy folder recursively
   - Worker threads
@@ -88,7 +88,7 @@
   - Endpoint throttling 👂 heard
   - HTTP(S) 🎓 known
   - TCP/SSL 🎓 known
-  - UDP 👂 heard
+  - UDP 🖐️ used
   - TLS 👂 heard
   - Websocket
   - SSE
@@ -97,8 +97,8 @@
   - REST 👂 heard
   - RPC 👂 heard
   - Routing 🎓 known
-  - DoS 👂 heard
-  - DDoS 👂 heard
+  - DoS 🖐️ used
+  - DDoS 🖐️ used
   - XSS
   - Path traversal
   - CSRF
