@@ -1,9 +1,9 @@
 ## JavaScript
 
 - Language
-  - Object 🖐️ used
+  - Object 🎓 known
   - this 🖐️ used
-  - arrow function 🖐️ used
+  - arrow function 🎓 known
   - async function 🖐️ used
   - call 🖐️ used
   - bind 🖐️ used
@@ -23,57 +23,57 @@
   - global 🖐️ used
   - globalThis
   - window 👂 heard
-  - getters and setters 🖐️ used
+  - getters and setters 🎓 known
   - __proto__ 🖐️ used
-  - prototype 🖐️ used
+  - prototype 🎓 known
   - equality operators 🖐️ used
   - logical operators 🖐️ used
   - bitwise operators 
   - ternary operator 🖐️ used
   - void 👂 heard
-  - yield 🖐️ used
-  - await 🖐️ used
+  - yield 🎓 known
+  - await 🎓 known
   - template literal
   - strict mode
-  - delete 🖐️ used
-  - in 🖐️ used
-  - super 👂 heard
+  - delete 🎓 known
+  - in 🎓 known
+  - super 🎓 known
   - Symbol
   - Reflect
 - Statements
-  - if 🖐️ used
-  - while 🖐️ used
-  - do..while 🖐️ used
-  - for 🖐️ used
-  - for..in 🖐️ used
-  - for..of 🖐️ used
+  - if 🎓 known
+  - while 🎓 known
+  - do..while 🎓 known
+  - for 🎓 known
+  - for..in 🎓 known
+  - for..of 🎓 known
   - for await 🖐️ used
   - throw 🖐️ used
-  - break 🖐️ used
-  - continue 🖐️ used
-  - import 🖐️ used
+  - break 🎓 known
+  - continue 🎓 known
+  - import 🎓 known
   - export 🖐️ used
   - label 
-  - try..catch 🖐️ used
-  - switch 🖐️ used
+  - try..catch 🎓 known
+  - switch 🎓 known
   - class 🖐️ used
   - new Error 👂 heard
   - with 👂 heard
 - Functions
-  - function declaration 🖐️ used
+  - function declaration 🎓 known
   - function expression 🖐️ used
   - return 🖐️ used
   - default parameters 🖐️ used
   - functional object
 - Data structures
-  - Array 🖐️ used
+  - Array 🎓 known
   - mixin
   - extend
   - typed arrays 👂 heard
   - Map 🖐️ used
-  - Set 👂 heard
-  - undefined 🖐️ used
-  - null 🖐️ used
+  - Set 🖐️ used
+  - undefined 🎓 known
+  - null 🎓 known
   - Proxy 👂 heard
   - weak collections
   - timers 👂 heard
@@ -84,6 +84,6 @@
 - Infrastructure
   - V8
   - Node.js 👂 heard
-  - npm 👂 heard
+  - npm 🎓 known
   - prettier
   - MDN
