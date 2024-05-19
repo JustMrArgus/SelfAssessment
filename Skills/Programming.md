@@ -3,13 +3,13 @@
 - Syntax and concepts
   - value 🖐️ used
   - identifier 🖐️ used
-  - variable 🖐️ used
-  - constant 🖐️ used
+  - variable 🎓 known
+  - constant 🎓 known
   - scalar 🖐️ used
   - literal 🖐️ used
   - expression 🖐️ used
   - heap 🖐️ used
-  - function 🖐️ used
+  - function 🎓 known
   - procedure 🖐️ used
   - method 🖐️ used
   - class 🖐️ used
@@ -31,10 +31,10 @@
   - call stack 👂 heard
 - Functions
   - signature 🖐️ used
-  - argument 🖐️ used
-  - parameter 🖐️ used
+  - argument 🎓 known
+  - parameter 🎓 known
   - pure function 🖐️ used
-  - lambda expression 🖐️ used
+  - lambda expression 🎓 known
   - side effects 👂 heard
   - closure 🖐️ used
   - partial application
@@ -53,23 +53,23 @@
   - generator 
   - coroutine
 - Data structures
-  - array 🖐️ used
-  - structure 🖐️ used
+  - array 🎓 known
+  - structure 🎓 known
   - record
   - enum
-  - instance 🎓🖐️ used
+  - instance 🖐️ used
   - object 🖐️ used
   - class 🖐️ used
   - collection
   - set 🎓 known
   - hash table
-  - linked list 🖐️ used
-  - doubly list 🖐️ used
+  - linked list 🎓 known
+  - doubly list 🎓 known
   - unrolled list 👂 heard
   - circular list 👂 heard
-  - queue 👂 heard
-  - stack 👂 heard
-  - deque 👂 heard
+  - queue 🖐️ used
+  - stack 🖐️ used
+  - deque 🖐️ used
   - tree 🖐️ used
   - graph 🖐️ used
   - iterator 🖐️ used
@@ -82,10 +82,10 @@
   - transpiler
   - linter
   - polyfill
-  - debugger 🖐️ used
+  - debugger 🎓 known
   - garbage collection
-  - refactoring 🖐️ used
-  - code review 🖐️ used
+  - refactoring 🎓 known
+  - code review 🎓 known
   - antipatterns 👂 heard
   - paradigm 🖐️ used
   - algorithm 🖐️ used
