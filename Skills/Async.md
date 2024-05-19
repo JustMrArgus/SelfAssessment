@@ -2,7 +2,7 @@
 
 - Theory
   - Event loop 🖐️ used
-  - try..catch 🖐️ used
+  - try..catch 🎓 known
   - Non-blocking
   - Async I/O 👂 heard
   - Thread pool 👂 heard
@@ -25,8 +25,8 @@
   - Callbacks 🎓 known
   - Callback-last-error-first 🎓 known
   - Thenable
-  - Promise 🖐️ used
-  - Async/await 🖐️ used
+  - Promise 🎓 known
+  - Async/await 🎓 known
   - Future
   - Deferred
   - Sync generator 🖐️ used
@@ -71,7 +71,7 @@
   - Atomics 👂 heard
   - High resolution clock
   - Callback hell 🎓 known
-  - Promise hell 👂 heard
+  - Promise hell 🎓 known
   - ref() and unref()
   - Error handling in async code
   - Better stack traces with return await
