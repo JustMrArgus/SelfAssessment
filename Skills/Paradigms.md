@@ -21,10 +21,10 @@
   - Metaprogramming
   - Actor model
 - OOP basics
-  - constructor 🎓 known 🖐️ used
-  - new 🎓 known 🖐️ used
-  - Static method 🎓 known 🖐️ used
-  - Method 🎓 known 🖐️ used
+  - constructor 🖐️ used
+  - new 🖐️ used
+  - Static method 🖐️ used
+  - Method 🖐️ used
   - Async method 👂 heard
   - Getters, Setters 🎓 known
   - Public fields 🎓 known
@@ -55,10 +55,10 @@
   - Iterator 👂 heard
   - State
   - Bridge 👂 heard
-  - Builder 👂 heard
-  - Prototype 👂 heard
+  - Builder 🖐️ used
+  - Prototype 🖐️ used
   - Composite
-  - Decorator 👂 heard
+  - Decorator 🖐️ used
   - Flyweight
   - Mediator
   - Memento
