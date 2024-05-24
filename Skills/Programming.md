@@ -11,67 +11,67 @@
   - heap
   - function 🖐️ used
   - procedure 👂 heard
-  - method 🎓 known
-  - class 🎓 known
-  - prototype 🎓 known
+  - method 🖐️ used
+  - class 🖐️ used
+  - prototype 🖐️ used
   - event 🖐️ used
-  - type 🎓 known
+  - type 🖐️ usedn
   - primitive types 👂 heard
   - reference types
   - flag
   - lexical scope
   - code block 🖐️ used
   - conditions 🖐️ used
-  - loops 🎓 known
+  - loops 🖐️ used
   - assignment 👂 heard
-  - regular expression 👂 heard
+  - regular expression 🖐️ used
   - interface 👂 heard
   - contract
-  - module 🎓 known
-  - call stack 👂 heard
+  - module 🖐️ used
+  - call stack 🖐️ used
 - Functions
   - signature
   - argument 🖐️ used
   - parameter 🖐️ used
-  - pure function 👂 heard
+  - pure function 🖐️ used
   - lambda expression 🖐️ used
   - side effects
   - closure
   - partial application
   - curry
   - higher order
-  - recursion 🎓 known
-  - callback 🎓 known
+  - recursion 🖐️ used
+  - callback 🖐️ used
   - listener
   - compose
   - pipe
   - memoize
-  - wrapper
+  - wrapper 👂 heard
   - functor
   - monad
   - monoid
-  - generator 
-  - coroutine
+  - generator  
+  - coroutine 👂 heard
 - Data structures
   - array 🖐️ used
   - structure
   - record
   - enum
-  - instance 🎓 known
+  - instance 🖐️ used
   - object 🖐️ used
   - class 🖐️ used
   - collection
-  - set 🎓 known
-  - hash table
-  - linked list
-  - doubly list
-  - unrolled list
-  - circular list
-  - queue
+  - set 🖐️ used
+  - hash table 👂 heard
+  - linked list 🖐️ used
+  - doubly list 🖐️ used
+  - unrolled list 👂 heard
+  - circular list 👂 heard
+  - queue 👂 heard
   - stack 👂 heard
-  - deque
-  - tree
-  - graph
+  - deque 👂 heard
+  - tree 👂 heard
+  - graph 🖐️ used
   - iterator
   - mutable state
   - immutable state
@@ -83,24 +83,24 @@
   - linter
   - polyfill
   - debugger 🖐️ used
-  - garbage collection
+  - garbage collection 👂 heard
   - refactoring 🖐️ used
-  - code review 👂 heard
-  - antipatterns
-  - paradigm
+  - code review 🖐️ used
+  - antipatterns 👂 heard
+  - paradigm 👂 heard
   - algorithm 🖐️ used
   - magic numbers
-  - hardcode
+  - hardcode 🖐️ used
   - complexity
   - decomposition heard
   - spaghetti 
   - silver bullet
   - not invented here
-  - dead code 👂 heard
+  - dead code 🖐️ used
   - unreachable code
-  - duplicate code 👂 heard
-  - exception 👂 heard
+  - duplicate code 🖐️ used
+  - exception 🖐️ used
   - return early
-  - unittest 👂 heard
-  - git 👂 heard
-  - github 👂 heard
+  - unittest 🖐️ used
+  - git 🖐️ used
+  - github 🖐️ used
