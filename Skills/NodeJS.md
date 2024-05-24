@@ -26,8 +26,8 @@
   - Coupling and cohesion
   - Framework agnostic approach
 - Environment
-  - Command line arguments 👂 heard
-  - Node.js CLI 👂 heard
+  - Command line arguments 🖐️ used
+  - Node.js CLI 🖐️ used
   - Process-based permissions
   - Graceful shutdown
   - Clustering
@@ -88,21 +88,21 @@
   - Endpoint throttling
   - HTTP(S) 🎓 known
   - TCP/SSL 🎓 known
-  - UDP
+  - UDP 🎓 known
   - TLS
-  - Websocket
-  - SSE
+  - Websocket 🖐️ used
+  - SSE 
   - HTTP/3 (QUIC)
   - Long polling
-  - REST
+  - REST 👂 heard
   - RPC
-  - Routing 
+  - Routing 🖐️ used
   - DoS 👂 heard
   - DDoS 👂 heard
   - XSS
   - Path traversal
   - CSRF
-  - DNS 🎓 known
+  - DNS 🖐️ used
   - Fetch API
   - IncomingMessage
   - SQL injection 👂 heard
@@ -116,15 +116,15 @@
   - Native test runner
   - Logging
   - Application configuring
-  - Testing
+  - Testing 🖐️ used
   - CI/CD
   - Readable
   - Writable
   - Transform
   - back pressure
   - Buffer
-  - Console
-  - Inspector
+  - Console 🖐️ used
+  - Inspector 🖐️ used
   - Reliability
   - Quality
   - Availability

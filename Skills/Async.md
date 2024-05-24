@@ -1,11 +1,11 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop 👂 heard
+  - Event loop 🖐️ used
   - try..catch 🖐️ used
-  - Non-blocking
+  - Non-blocking 👂 heard
   - Async I/O 👂 heard
-  - Thread pool 👂 heard
+  - Thread pool 🖐️ used
   - Pattern Reactor
   - CAS operations
   - epoll
@@ -19,7 +19,7 @@
   - Concurrent programming
   - Parallel programming
   - Actor Model
-  - Thread 👂 heard
+  - Thread 🖐️ used
   - Process
 - Async contracts
   - Callbacks 🖐️ used
@@ -70,8 +70,8 @@
   - worker_threads
   - Atomics
   - High resolution clock
-  - Callback hell 👂 heard
-  - Promise hell 👂 heard
+  - Callback hell 🎓 known
+  - Promise hell 🎓 known
   - ref() and unref()
   - Error handling in async code
   - Better stack traces with return await

@@ -15,29 +15,29 @@
   - destructuring
   - generator
   - iterator 🖐️ used
-  - async generator
-  - async iterator
-  - chaining
+  - async generator 👂 heard
+  - async iterator 👂 heard
+  - chaining 👂 heard
   - optional chaining
   - IIFE
-  - global
+  - global 👂 heard
   - globalThis
   - window
-  - getters and setters 👂 heard
-  - __proto__
-  - prototype 👂 heard
+  - getters and setters 🖐️ used
+  - __proto__ 🖐️ used
+  - prototype 🖐️ used
   - equality operators 🖐️ used
   - logical operators 🖐️ used
   - bitwise operators 
   - ternary operator 🖐️ used
-  - void
+  - void 👂 heard
   - yield 🖐️ used
   - await 🖐️ used
   - template literal
   - strict mode
   - delete 🖐️ used
   - in 🖐️ used
-  - super 👂 heard
+  - super 🖐️ used
   - Symbol
   - Reflect
 - Statements
@@ -70,20 +70,20 @@
   - mixin
   - extend
   - typed arrays 👂 heard
-  - Map 👂 heard
-  - Set 👂 heard
+  - Map 🖐️ used
+  - Set 🖐️ used
   - undefined 🖐️ used
   - null 🖐️ used
-  - Proxy
+  - Proxy 👂 heard
   - weak collections
-  - timer
+  - timer 👂 heard
   - EventEmitter
   - RegExp
   - Date
   - BigInt
 - Infrastructure
   - V8
-  - Node.js
-  - npm
+  - Node.js 👂 heard
+  - npm 👂 heard
   - prettier
-  - MDN
+  - MDN 👂 heard
